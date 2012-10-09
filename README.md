@@ -5,12 +5,12 @@ node-walk
 
 #下载
 
-npm install walk
+npm install walkdo
 
 #使用
 
 <pre>
-var walk=require("../lib/walk.js")
+var walk=require("walkdo")
 //源文件
 var source = '/Applications/XAMPP/xamppfiles/htdocs/node/walk/';
 
