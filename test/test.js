@@ -1,15 +1,4 @@
-node-walk
-=========
 
-遍历文件夹并处理所得文件，支持同步遍历和异步遍历，同步遍历顺序严格使用深度搜索算法
-
-#下载
-
-npm install walk
-
-#使用
-
-<pre>
 var walk=require("../lib/walk.js")
 //源文件
 var source = '/Applications/XAMPP/xamppfiles/htdocs/node/walk/';
@@ -26,5 +15,5 @@ walk(source,function(list){
 },function(){
     console.log("all finish!")
 },true)
-</pre>
+
 
