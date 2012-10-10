@@ -29,3 +29,4 @@ walk(source,function(list,next,context){
 },true)
 </pre>
 
+实际使用实例见：https://github.com/xinyu198736/dependparser
