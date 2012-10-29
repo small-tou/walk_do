@@ -1,7 +1,7 @@
 {
     "name":"walkdo",
     "description":"遍历文件夹并处理所得文件，支持同步遍历和异步遍历，同步遍历顺序严格使用深度搜索算法",
-    "version":"0.9.2",
+    "version":"0.9.3",
     "keywords":"walk walker",
     "contributors":[{
         "name": "yutou",
@@ -13,5 +13,5 @@
         "url": "http://www.example.com/licenses/gpl.html"
     }],
     "repositories":"https://github.com/xinyu198736/walk",
-    "dependencies":{"queuedo":"0.9.4"}
+    "dependencies":{"queuedo":"0.9.6"}
 }
